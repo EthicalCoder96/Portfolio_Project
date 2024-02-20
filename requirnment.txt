@@ -10,4 +10,10 @@
 
 6] Academics marks uploading / Progress tracker 
 
-7] 
+7] Login Page / keep logged in 
+
+8] sign up page 
+
+9] Form Validation 
+
+10] php and mySQL only 
