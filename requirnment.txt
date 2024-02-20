@@ -1,0 +1,13 @@
+1] Upload Projects
+
+2] Upload Achievments
+
+3] Upload Photos
+
+4] Daily Problem Solving (Once Missed Start From 0)
+
+5] Daily Timetable
+
+6] Academics marks uploading / Progress tracker 
+
+7] 
